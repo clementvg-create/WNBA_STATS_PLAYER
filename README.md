@@ -15,6 +15,10 @@ Deux utilisations sont possibles :
 
 Remarque : Si vous utilisez Git, ne pas faire de modifications sur les fichiers (Commit, Push...), vous pouvez néanmoins Clone/Pull le dépôt à volonté !
 
+# Critères
+
+Minutes minimum jouées = 100
+
 ##
 
 ## WNBA_STATS_PLAYER (ENGLISH VERSION)
@@ -33,3 +37,7 @@ Two uses are possible:
  - Download the Excel files (STATS_2025.xlsx...) by clicking on them from the address [here](https://github.com/clementvg-create/WNBA_STATS_PLAYER)
  
 Note: If you are using Git, do not make any changes to the files (commit, push, etc.). However, you can clone/pull the repository as often as you like!
+
+# Criteria
+
+Minimum minutes played = 100
