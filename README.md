@@ -7,6 +7,8 @@ Le dépôt GitHub est organisé de la manière suivante :
 	- STATS_2025.xlsx --> Fichier Excel de la saison 2025 des stats (basiques + avancées)
 	- Etc...
 
+Saisons disponibles : 2020-2025 (1997-2019 bientôt disponibles)
+
 # Utilisation
 
 Deux utilisations sont possibles :
@@ -29,6 +31,8 @@ The GitHub repository is organized as follows:
  - Root folder:
 	- STATS_2025.xlsx --> Excel file for the 2025 season of stats (basic + advanced)
 	- Etc...
+
+Available seasons : 2020-2025 (1997-2019 coming soon)
 
 # Usage
 
